@@ -17,6 +17,6 @@ pause
 GOTO end
 
 :continue
-C:\tools\python2\Scripts\subliminal download -l en -s "%input%"
+subliminal download -l en -s "%input%"
 
 :end
